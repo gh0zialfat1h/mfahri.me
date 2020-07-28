@@ -1,5 +1,9 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/404.jpg": "static/404-2ad917d94e151b620afd238351e982a4.jpg"
+  "static/404.jpg": "static/404-2ad917d94e151b620afd238351e982a4.jpg",
+  "static/avatar.jpg": "static/avatar-a2e9fd8e8b00fa2ccc3c13d0df12b917.jpg",
+  "static/finseparator.svg": "static/finseparator-1484c5b8a0df2feea285252c74ad3938.svg",
+  "static/logo.png": "static/logo-dd7872fd83e043da33a220a625f86e48.png",
+  "static/separator.svg": "static/separator-eb6daa28a825fdfa847485fb5a7cdf8b.svg"
 }
