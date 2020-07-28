@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammadfahri.me/sitemap.xml
+Host: https://muhammadfahri.me

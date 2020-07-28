@@ -1,0 +1,7 @@
+# Redirect default Netlify subdomain to primary domain
+https://dantecalderon.netlify.com/* https://dantecalderon.dev/:splat 301!
+/g https://github.com/gh0zialfat1h 301
+/t https://twitter.com/muhammdfahrim 301
+/i https://www.instagram.com/muhammadfahrim_ 301
+/l https://www.linkedin.com/in/muhammad-fahri-60038716a/ 301
+/about /#a-little-bit-about-me 301
