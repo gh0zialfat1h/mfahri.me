@@ -1,0 +1,26 @@
+{
+  "backgroundType": "plain",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "I'm Muhammad Fahri",
+  "devDesc": "Fullstack Engineer | Blogger | Open-Source Enthusiast",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fa-github",
+      "url": "https://github.com/0xft1h/"
+    },
+    {
+      "image": "fa-gitlab",
+      "url": "https://gitlab.com/0xft1h"
+    },
+    {
+      "image": "fa-facebook",
+      "url": "https://facebook.com/lmao.sec"
+    },
+    {
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/muhammad-fahri-60038716a/"
+    }
+  ]
+}
