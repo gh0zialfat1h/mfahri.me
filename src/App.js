@@ -56,7 +56,7 @@ class App extends Component {
           <main className="App-main">
             <ParticlesBg type="thick" bg={true} />
             <div className="container">
-              <h1 className="intro">{devIntro}</h1>
+              <h3 className="intro">{devIntro}</h3>
               <div className="shell">
                 <a
                   target="_blank"
